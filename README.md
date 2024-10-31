@@ -1,7 +1,5 @@
 # ADTWorkshop
 
-# Taller Progreso 1
-
 **Curso:** Programación III  
 **Profesor:** PhD (c). Luis Fernando Aguas Bucheli  
 **Ubicación:** Quito, Ecuador
