@@ -1,4 +1,4 @@
-package excerciseFour.guiValidateExpression;
+package excerciseFour.validateExpressionGUI;
 
 import excerciseFour.ExpressionsValidator;
 

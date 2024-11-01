@@ -1,4 +1,4 @@
-package excerciseThree.guiHospital;
+package excerciseThree.hospitalGUI;
 
 import excerciseThree.PrioritySystem;
 

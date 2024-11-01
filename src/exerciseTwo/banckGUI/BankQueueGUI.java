@@ -1,4 +1,4 @@
-package exerciseTwo.guiBank;
+package exerciseTwo.banckGUI;
 
 import exerciseTwo.Person;
 
